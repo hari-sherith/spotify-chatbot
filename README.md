@@ -1,6 +1,6 @@
 # Spotify RAG Analytics (Local)
 
-A lightweight, privacy-preserving assistant that analyzes your Spotify extended listening history **locally** — using pandas and an LLM.
+A lightweight, privacy-preserving assistant that analyzes your Spotify extended listening history **locally** using pandas and an LLM.
 
 Ask natural language questions like:
 - “Who were my top 5 artists in July 2024?”
