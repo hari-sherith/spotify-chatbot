@@ -1,0 +1,4 @@
+# CONTRACT: Return ONLY JSON with keys:
+# task_family: "semantic_memory" | "analytics"
+# task_type (if analytics): "top_entities" | "compare_periods" | "trend"
+# start_date, end_date, [start_date_b, end_date_b], group_by ("artist_name"|"track_name"|"album_name"), top_n, time_hint
